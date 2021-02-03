@@ -8,7 +8,7 @@ Tim panarjamah basa Sunda pikeun Ubuntu samemehna kungsi dijieun dina kaca https
 
 Harepan diwangunna ieu tim nyaeta minangka loka pikeun rereongan ngalarapkeun basa Sunda kana widang teknologi. Situs publik saperti [Wikipedia Basa Sunda](https://su.wikipedia.org) nu geus dikokolakeun tiheula ku komunitasna minangka conto anu hade pikeun gerakan rereongan ngamumule basa Sunda dina dunya digital. Kitu deui sawatara dulur urang geus hasil narjamahkeun [Firefox Rocket](https://mozilla.or.id/2018/08/13/firefox-rocket-to-be-soon-available-in-javanese-and-sundanese/) kana basa Sunda. Reueus pisan! 
 
-Ieu tim saméméhna kungsi dijieun (https://launchpad.net/~sundanese), sangkan nyumponan katangtuan ngaran, mangka dijieun deui loka pikeun tim anyar.
+Ubuntu minangka sistem operasi nembrak, gede pisan harepanana pikeun bisa ngalarapkeun basa Sunda. Malah mah aksara Sunda oge kiwari geus bisa dipake ngetik dina Ubuntu. Kuring umajak ka dulur-dulur, hususna pamake Ubuntu (jeung distro sejen turunanana) sangkan bisa ilubiung, rereongan, ngamumule basa Sunda ku jalan narjamahkeun ieu sistem operasi.  
 
 ### Saha nu Narjamahkeun?
 
