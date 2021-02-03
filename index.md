@@ -1,16 +1,16 @@
 ## Wilujeng Sumping di Loka Panarjamah Ubuntu Basa Sunda
 
-## Kasang Tukang
+### Kasang Tukang
 
-## Saha nu Narjamhkeun?
+### Saha nu Narjamhkeun?
 
-## Naon nu Perlu Ditarjmaahkeun?
+### Naon nu Perlu Ditarjmaahkeun?
 
-## Palanggeran Tata Basa
+### Palanggeran Tata Basa
 
-### Éjhaan 
+#### Éjhaan 
 
-### Gaya Basa
+#### Gaya Basa
 
-## Pangrojong jeung Kontak
+### Pangrojong jeung Kontak
 Upama anjeun manggihan bangbaluh dina prosés narjamahkeun, mangga kirimkeunt talatah kana milis [ubuntu-l10n-su@lists.launchpad.net](ubuntu-l10n-su@lists.launchpad.net), sugan baé aya baraya séjén anu bisa nulungan pasualan anjeun.
