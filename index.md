@@ -36,6 +36,14 @@ Ejahan anu dipake nyaeta pikeun basa Sunda kiwari (modern). Sawatara contona bis
 Pikeun istilah-istilah husus dina widang tehnologi, nepi ka kiwari tacan aya standar pikeun basa Sunda. Saheulaanan mah bisa ngacu kana [Panduan Pembakuan Istilah komputer dumasar Inpres No. 2 Tahun 2001](https://id.wikisource.org/wiki/Panduan_Pembakuan_Istilah,_Pelaksanaan_Instruksi_Presiden_Nomor_2_Tahun_2001_Tentang_Penggunaan_Komputer_Dengan_Aplikasi_Komputer_Berbahasa_Indonesia). Tangtu bae kudu diluyukeun deui kana ejahan pikeun basa Sunda. Minangka babandingan, bisa oge ningali daptar istilah nu dipake dina [Wikipedia Basa Sunda](https://su.wikipedia.org/wiki/Wikipedia:Daptar_Istilah). 
 
 ### Pakakas Tarjamah
+#### Kamus
+Narjamahkeun kana basa Sunda hadena luyu kana kamus basa Sunda. Sangkan ejahanana bener jeung hartina merenah. Aya sawatara kamus anu bisa dipake ku urang, boh nu online boh nu offline (citak). Ieu di handap daftarna:
+* A dictionary of the Sunda language of Java ([Wiki Source](https://en.wikisource.org/wiki/A_Dictionary_of_the_Sunda_language)) ([Archive.org](https://archive.org/details/sundanesedictgoog2)
+* Kamus Basa Sunda Danadibrata 
+* Kamus Basa Sunda Satjadibrata 
+* Sundanese English Dictionary Hardjadibrata
+
+#### Mesin Panarjamah
 
 ### Pangrojong jeung Kontak
 Upama anjeun manggihan bangbaluh dina prosés narjamahkeun, mangga kirimkeunt talatah kana milis [ubuntu-l10n-su@lists.launchpad.net](ubuntu-l10n-su@lists.launchpad.net), sugan baé aya baraya séjén anu bisa nulungan pasualan anjeun.
