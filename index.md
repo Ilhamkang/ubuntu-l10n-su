@@ -28,6 +28,7 @@ Ejahan anu dipake nyaeta pikeun basa Sunda kiwari (modern). Sawatara contona bis
 
 #### Gaya Basa
 
+### Pakakas Tarjamah
 
 ### Pangrojong jeung Kontak
 Upama anjeun manggihan bangbaluh dina prosés narjamahkeun, mangga kirimkeunt talatah kana milis [ubuntu-l10n-su@lists.launchpad.net](ubuntu-l10n-su@lists.launchpad.net), sugan baé aya baraya séjén anu bisa nulungan pasualan anjeun.
