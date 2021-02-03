@@ -38,7 +38,7 @@ Pikeun istilah-istilah husus dina widang tehnologi, nepi ka kiwari tacan aya sta
 ### Pakakas Tarjamah
 #### Kamus
 Narjamahkeun kana basa Sunda hadena luyu kana kamus basa Sunda. Sangkan ejahanana bener jeung hartina merenah. Aya sawatara kamus anu bisa dipake ku urang, boh nu online boh nu offline (citak). Ieu di handap daftarna:
-* A dictionary of the Sunda language of Java ([Wiki Source](https://en.wikisource.org/wiki/A_Dictionary_of_the_Sunda_language)) ([Archive.org](https://archive.org/details/sundanesedictgoog2)
+* A dictionary of the Sunda language of Java ([Wiki Source](https://en.wikisource.org/wiki/A_Dictionary_of_the_Sunda_language)) ([Archive.org](https://archive.org/details/sundanesedictgoog2))
 * Kamus Basa Sunda Danadibrata 
 * Kamus Basa Sunda Satjadibrata 
 * Sundanese English Dictionary Hardjadibrata
