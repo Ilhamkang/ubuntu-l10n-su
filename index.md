@@ -44,6 +44,9 @@ Narjamahkeun kana basa Sunda hadena luyu kana kamus basa Sunda. Sangkan ejahanan
 * Sundanese English Dictionary Hardjadibrata
 
 #### Mesin Panarjamah
+Aya sawatara wesbite atawa aplikasi anu nyadiakeun kamus atawa pakakas tarjamah otomatis kana basa Sunda. Hanjakal, tara kapaluruh sumberna acuanana. Gampang bae maluruhna mah, rea kacukcruk ku Google oge. Eta website atawa aplikasi teh bisa dipake pikeun narjamahkeun istilah-istilah basajan sapopoe, tapi keur istilah tehnis mah perlu dibahas deui jeung anggota grup panarjamah sejenna, sangkan teu salah atawa ambigu. 
+
+Mesin otomatis [panarjamah Google versi basa Sunda](https://translate.google.com/?hl=su&sl=en&tl=su&op=translate) bisa oge dipake. Ngan tetep kudu ati-ati ningali hasil tarjamahna, lantaran hasil tarjamahna biasana mangrupa kontribusi ti balrea anu bisa wae bener tapi can tangtu merenah. Upama anjeun mangmang kana hasil tarjamahna, ulah asa-asa pikeun nanyakeun kana milis grup. 
 
 ### Pangrojong jeung Kontak
 Upama anjeun manggihan bangbaluh dina prosés narjamahkeun, mangga kirimkeunt talatah kana milis [ubuntu-l10n-su@lists.launchpad.net](ubuntu-l10n-su@lists.launchpad.net), sugan baé aya baraya séjén anu bisa nulungan pasualan anjeun.
