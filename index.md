@@ -1,4 +1,4 @@
-## Wilujeng Sumping di Loka Panarjamah Ubuntu Basa Sunad
+## Wilujeng Sumping di Loka Panarjamah Ubuntu Basa Sunda
 
 You can use the [editor on GitHub](https://github.com/Ilhamkang/ubuntu-l10n-su/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
