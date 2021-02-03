@@ -1,7 +1,5 @@
 ## Loka Panarjamah Ubuntu Basa Sunda
 _Kaca ieu keur dijieun, pariksa sawatara waktu ka hareup pikeun update panganyarna_
-<img src="https://commons.wikimedia.org/wiki/File:Ubuntu_logo.svg">
-
 
 ### Wilujeng Sumping
 Kaca ieu nyadiakeun informasi sabudeureun kagiatan narjamahkeun Ubuntu kana basa Sunda jeung rupa-rupa palanggeranana. Sagala katerangan dina ieu kaca kalawan langsung atawa teu langsung bisa dipake pikeun pituduh dina prosés narjamahkeun rupa-rupa istilah tehnis nu dipake dina sitem operasi [Ubuntu](https://ubuntu.com/). 
