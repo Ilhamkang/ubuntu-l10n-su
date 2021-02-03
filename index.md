@@ -1,6 +1,7 @@
-## Wilujeng Sumping di Loka Panarjamah Ubuntu Basa Sunda
+## Loka Panarjamah Ubuntu Basa Sunda
 _Kaca ieu keur dijieun, pariksa sawatara waktu ka hareup pikeun update panganyarna_
 
+### Wilujeng Sumping
 Kaca ieu nyadiakeun informasi sabudeureun kagiatan narjamahkeun Ubuntu kana basa Sunda jeung rupa-rupa palanggeranana. Sagala katerangan dina ieu kaca kalawan langsung atawa teu langsung bisa dipake pikeun pituduh dina prosés narjamahkeun rupa-rupa istilah tehnis nu dipake dina sitem operasi [Ubuntu](https://ubuntu.com/). 
 
 Kaca resmi pikeun para panarjamah Ubuntu Basa Sunda bisa ditingali di dieu: [https://launchpad.net/~ubuntu-l10n-su](https://launchpad.net/~ubuntu-l10n-su). 
