@@ -18,8 +18,7 @@ Ubuntu minangka sistem operasi nembrak, gedé pisan harepanana sangkan bisa dila
 ### Naon nu Perlu Ditarjamahkeun?
 #### Paket Inti (_Core Packages_)
 
-#### Istilah Tehnologi
-Pikeun istilah-istilah husus dina widang tehnologi, nepi ka kiwari tacan aya standar pikeun basa Sunda. Saheulaanan mah bisa ngacu kana [Panduan Pembakuan Istilah komputer dumasar Inpres No. 2 Tahun 2001](https://id.wikisource.org/wiki/Panduan_Pembakuan_Istilah,_Pelaksanaan_Instruksi_Presiden_Nomor_2_Tahun_2001_Tentang_Penggunaan_Komputer_Dengan_Aplikasi_Komputer_Berbahasa_Indonesia). Tangtu bae kudu diluyukeun deui kana ejahan pikeun basa Sunda. Minangka babandingan, bisa oge ningali daptar istilah nu dipake dina [Wikipedia Basa Sunda](https://su.wikipedia.org/wiki/Wikipedia:Daptar_Istilah). 
+#### Aplikasi Saluareun Ubuntu
 
 ### Palanggeran Tata Basa
 
@@ -27,6 +26,9 @@ Pikeun istilah-istilah husus dina widang tehnologi, nepi ka kiwari tacan aya sta
 Ejahan anu dipake nyaeta pikeun basa Sunda kiwari (modern). Sawatara contona bisa ditingali dina [Palanggeran Ejahan Wikipedia Basa Sunda](https://su.wikipedia.org/wiki/Wikipedia:Palanggeran_%C3%A9jahan_basa_Sunda).
 
 #### Gaya Basa
+
+#### Istilah Tehnologi
+Pikeun istilah-istilah husus dina widang tehnologi, nepi ka kiwari tacan aya standar pikeun basa Sunda. Saheulaanan mah bisa ngacu kana [Panduan Pembakuan Istilah komputer dumasar Inpres No. 2 Tahun 2001](https://id.wikisource.org/wiki/Panduan_Pembakuan_Istilah,_Pelaksanaan_Instruksi_Presiden_Nomor_2_Tahun_2001_Tentang_Penggunaan_Komputer_Dengan_Aplikasi_Komputer_Berbahasa_Indonesia). Tangtu bae kudu diluyukeun deui kana ejahan pikeun basa Sunda. Minangka babandingan, bisa oge ningali daptar istilah nu dipake dina [Wikipedia Basa Sunda](https://su.wikipedia.org/wiki/Wikipedia:Daptar_Istilah). 
 
 ### Pakakas Tarjamah
 
