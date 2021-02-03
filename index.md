@@ -22,7 +22,8 @@ Pikeun istilah-istilah husus dina widang tehnologi, nepi ka kiwari tacan aya sta
 
 ### Palanggeran Tata Basa
 
-#### Éjahaan 
+#### Éjahaan
+Ejahan anu dipake nyaeta pikeun basa Sunda kiwari (modern). Sawatara contona bisa ditingali dina [Palanggeran Ejahan Wikipedia Basa Sunda](https://su.wikipedia.org/wiki/Wikipedia:Palanggeran_%C3%A9jahan_basa_Sunda).
 
 #### Gaya Basa
 
