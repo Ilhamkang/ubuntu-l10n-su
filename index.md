@@ -25,7 +25,7 @@ Ubuntu minangka sistem operasi nembrak, gedé pisan harepanana sangkan bisa dila
 #### Aksara 
 Aksara anu dipake pikeun nuliskeun basa Sunda dina Ubuntu nyaeta Laten, luyu jeung palanggeran umum pikeun basa Sunda. Kudu diperhatikeun bedana aksara _e_ (entog), _e_ (embung), jeung _eu_ (eunteung). Anjeun bisa ngaktifkeun keyboard kustom anu biasa dipake ku anjeun, atawa bisa make [keyboard Sunda Laten ti Keyman](https://keyman.com/keyboards/sundanese_latin). 
 
-Aksara Sunda bisa dipake dina sawatara istilah pondok, bari dibarengan ku aksara Laten. Pikeun ngetikna bisa make [Keyboard Aksara Sunda Baku ti Keyman](https://keyman.com/keyboards/sundanese).
+Aksara Sunda (ᮃᮊ᮪ᮞᮛ ᮞᮥᮔ᮪ᮓ) bisa dipake dina sawatara istilah pondok, bari dibarengan ku aksara Laten. Pikeun ngetikna bisa make [Keyboard Aksara Sunda Baku ti Keyman](https://keyman.com/keyboards/sundanese).
 
 #### Éjahaan
 Ejahan anu dipake nyaeta pikeun basa Sunda kiwari (modern). Sawatara contona bisa ditingali dina [Palanggeran Ejahan Wikipedia Basa Sunda](https://su.wikipedia.org/wiki/Wikipedia:Palanggeran_%C3%A9jahan_basa_Sunda).
