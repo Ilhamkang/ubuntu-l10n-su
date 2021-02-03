@@ -1,18 +1,17 @@
 ## Wilujeng Sumping di Loka Panarjamah Ubuntu Basa Sunda
 _Kaca ieu keur dijieun, pariksa sawatara waktu ka hareup pikeun update panganyarna_
 
-Kaca ieu nyadiakeun informasi sabudeureun kagiatan narjamahkeun Ubuntu kana basa Sunda jeung rupa-rupa palanggeranana. Sagala katerangan dina ieu kaca sacara teu langsung bisa dipake pikeun pituduh dina proses narjamahkeun rupa-rupa istilah tehnis nu dipake dina sitem operasi Ubuntu. Ari kaca resmi pikeun para panarjamah Ubuntu Basa Sunda bisa ditingali di dieu: https://launchpad.net/~ubuntu-l10n-su 
+Kaca ieu nyadiakeun informasi sabudeureun kagiatan narjamahkeun Ubuntu kana basa Sunda jeung rupa-rupa palanggeranana. Sagala katerangan dina ieu kaca sacara teu langsung bisa dipake pikeun pituduh dina proses narjamahkeun rupa-rupa istilah tehnis nu dipake dina sitem operasi [Ubuntu](https://ubuntu.com/). Ari kaca resmi pikeun para panarjamah Ubuntu Basa Sunda bisa ditingali di dieu: [https://launchpad.net/~ubuntu-l10n-su](https://launchpad.net/~ubuntu-l10n-su). 
 
 ### Kasang Tukang
 
-### Saha nu Narjamhkeun?
+### Saha nu Narjamahkeun?
 
-### Naon nu Perlu Ditarjmaahkeun?
+### Naon nu Perlu Ditarjamahkeun?
 
 ### Palanggeran Tata Basa
 
 #### Éjahaan 
-
 
 #### Gaya Basa
 
