@@ -2,18 +2,21 @@
 _Kaca ieu keur dijieun, pariksa sawatara waktu ka hareup pikeun update panganyarna (This page is under construction)_
 
 ### Wilujeng Sumping
-Kaca ieu nyadiakeun informasi sabudeureun kagiatan narjamahkeun Ubuntu kana basa Sunda jeung rupa-rupa palanggeranana. Sagala katerangan dina ieu kaca kalawan langsung atawa teu langsung bisa dipake pikeun pituduh dina prosés narjamahkeun rupa-rupa istilah tehnis nu dipake dina sitem operasi [Ubuntu](https://ubuntu.com/). 
+Kaca ieu nyadiakeun informasi sabudeureun kagiatan narjamahkeun Ubuntu kana basa Sunda jeung rupa-rupa palanggeranana. Sagala katerangan dina ieu kaca kalawan langsung atawa teu langsung bisa dipaké pikeun pituduh dina prosés narjamahkeun rupa-rupa istilah téhnis nu dipaké dina sitem operasi [Ubuntu](https://ubuntu.com/). 
 
 Kaca resmi pikeun para panarjamah Ubuntu Basa Sunda bisa ditingali di dieu: [https://launchpad.net/~ubuntu-l10n-su](https://launchpad.net/~ubuntu-l10n-su). 
 
 ### Kasang Tukang
-Tim panarjamah basa Sunda pikeun Ubuntu saméméhna kungsi dijieun dina kaca _https://launchpad.net/~sundanese_ taun 2010, ngan hanjakal ku sabab itu-ieu, antukna teu kagéroh. Tuluy dina taun 2017 kuring nyobaan deui ngahirupkeun éta tim, ngan hanjakal deui, sawatara saratna teu kacumponan. Kakara taun ieu pasaratanana geus kacumponan. 
+Tim panarjamah basa Sunda pikeun Ubuntu saméméhna kungsi dijieun dina kaca _https://launchpad.net/~sundanese_ taun 2010, ngan hanjakal ku sabab itu-ieu, antukna teu kagéroh. Tuluy dina taun 2017 kuring nyobaan deui ngahirupkeun éta tim, ngan hanjakal deui, sawatara saratna teu kacumponan. Kakara taun ieu (2021) pasaratanana geus kacumponan. 
 
-Harepan diwangunna ieu tim nyaéta minangka loka pikeun réréongan ngalarapkeun basa Sunda kana widang téknologi. Situs publik saperti [Wikipedia Basa Sunda](https://su.wikipedia.org) nu geus dikokolakeun tiheula ku komunitasna minangka conto anu hadé pikeun gerakan réréongan ngamumulé basa Sunda dina dunya digital. Kitu deui sawatara dulur urang geus hasil narjamahkeun [Firefox Rocket](https://mozilla.or.id/2018/08/13/firefox-rocket-to-be-soon-available-in-javanese-and-sundanese/) kana basa Sunda. Reueus pisan! 
+Harepan diwangunna ieu tim nyaéta minangka loka pikeun réréongan ngalarapkeun basa Sunda kana widang téknologi. Situs publik saperti [Wikipedia Basa Sunda](https://su.wikipedia.org) nu geus dikokolakeun tiheula ku komunitasna téh minangka conto anu hadé pikeun gerakan réréongan ngamumulé basa Sunda dina dunya digital. Kitu deui sawatara dulur urang geus hasil narjamahkeun [Firefox Rocket](https://mozilla.or.id/2018/08/13/firefox-rocket-to-be-soon-available-in-javanese-and-sundanese/) kana basa Sunda. Reueus pisan! 
 
-Ubuntu minangka sistem operasi nembrak, gedé pisan harepanana sangkan bisa dilarapkeun basa Sunda. Malah mah aksara Sunda ogé kiwari geus bisa dipaké ngetik dina Ubuntu saprak asup kana [Standar Unicode](https://www.unicode.org/charts/PDF/U1B80.pdf). Kuring umajak ka dulur-dulur, hususna pamake Ubuntu (jeung distro sejen turunanana) sangkan bisa ilubiung, réréongan, ngamumulé basa Sunda ku jalan narjamahkeun ieu sistem operasi.  
+Ubuntu minangka sistem operasi nembrak, gedé pisan harepanana sangkan bisa dilarapan ku basa Sunda. Malah mah aksara Sunda ogé kiwari geus bisa dipaké ngetik dina Ubuntu saprak asup kana [Standar Unicode](https://www.unicode.org/charts/PDF/U1B80.pdf). Kuring umajak ka dulur-dulur, hususna pamaké Ubuntu (jeung distro séjén turunanana) sangkan bisa ilubiung, réréongan, ngamumulé basa Sunda ku jalan narjamahkeun ieu sistem operasi.  
 
 ### Saha nu Narjamahkeun?
+Anjeun. Enya, anjeun bisa milu réréongan narjamahkeun Ubuntu. Sanajan Anjeun teu boga kasang tukang pangatikan linguistik basa Sunda, sahenteuna anUUjeun ngarti basa Sunda jeung sacara intuitif (rarasaan) tangtu bisa narjamahkeun rupa-rupa istilah dina sistem operasi. Ulah salempang, teu kudu hariwang. Cobaan heula narjamahkeun. Upama manggihan kabingung, ulah asa-asa pikeun nanyakeun dina milis. 
+
+Upama anjeun boga pangalaman narjamahkeun atawa boga kasang tukang atikan jurusan basa atawa sastra Sunda, hadé pisan! Ieu minangka salah sahiji loka pikeun ngalarapkeun basa Sunda dina widang téhnologi. Anjeun bisa nulungan dulur-dulur séjén pikeun narjamahkeun, atawa mariksa tarjamahan séjén sangkan cop atawa merenah, luyu jeung kontéksna. Urang silih simbeuh pangarti, jeung silih asah pangabisa. Sangkan manfaatna kaala ku balaréa. 
 
 ### Naon nu Perlu Ditarjamahkeun?
 #### Paket Inti (_Core Packages_)
