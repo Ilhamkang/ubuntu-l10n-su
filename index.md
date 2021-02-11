@@ -20,6 +20,7 @@ Upama anjeun boga pangalaman narjamahkeun atawa boga kasang tukang atikan jurusa
 
 ### Naon nu Perlu Ditarjamahkeun?
 #### Paket Inti (_Core Packages_)
+Paket inti teh dasar anu bakal dipake dina sakumna sistem operasi Ubuntu. Aplikasi sejen anu teu kaasup di jero sistem operasi Ubuntu perlu ditarjamahkeun sewang-sewangan. Pikeun Ubuntu versi kiwari (Hirsute) aya leuwih ti 320.000 string anu perlu ditarjamahkeun. Tingali salengkepna di dieu: [https://translations.launchpad.net/ubuntu/hirsute/+lang/su](https://translations.launchpad.net/ubuntu/hirsute/+lang/su).
 
 #### Aplikasi Saluareun Ubuntu
 
