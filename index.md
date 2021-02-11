@@ -23,6 +23,9 @@ Upama anjeun boga pangalaman narjamahkeun atawa boga kasang tukang atikan jurusa
 Paket inti teh dasar anu bakal dipake dina sakumna sistem operasi Ubuntu. Aplikasi sejen anu teu kaasup di jero sistem operasi Ubuntu perlu ditarjamahkeun sewang-sewangan. Pikeun Ubuntu versi kiwari (Hirsute) aya leuwih ti 320.000 string anu perlu ditarjamahkeun. Tingali salengkepna di dieu: [https://translations.launchpad.net/ubuntu/hirsute/+lang/su](https://translations.launchpad.net/ubuntu/hirsute/+lang/su).
 
 #### Aplikasi Saluareun Ubuntu
+Narjamahkeun sistem operasi kana basa Sunda teh tangtu kudu dibarengan ku narjamahekun rupa-rupa aplikasi sejenna. Aplikasi-aplikasi anu dimekarkeunsaluareun proyek Ubuntu perlu ditarjamahkeun dina loka sewang-sewangan. Upamana anjeun minat narjamahkeun Libre Office kana basa Sunda, anjeun bisa nuturkeun [Pituduh Lokalisasi Libre Office.](https://wiki.documentfoundation.org/LibreOffice_Localization_Guide/Adding_a_New_Language_or_Locale). [Firefox Rocket](https://www.mozilla.org/en-US/firefox/new/) malah mah [geus ditarjamahkeun kana basa Sunda](https://mozilla.or.id/2018/08/13/firefox-rocket-to-be-soon-available-in-javanese-and-sundanese/). 
+
+Upama anjeun aya minat narjamahkeun aplikasi sejen, hade pisan. Eta oge bakal ngarojong dipakena basa Sunda dina aplikasi-aplikasi nembrak sangkan bisa dipake dina Ubuntu atawa distro Linux sejenna. 
 
 ### Palanggeran Tata Basa
 
