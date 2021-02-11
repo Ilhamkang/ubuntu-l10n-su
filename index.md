@@ -14,7 +14,7 @@ Harepan diwangunna ieu tim nyaéta minangka loka pikeun réréongan ngalarapkeun
 Ubuntu minangka sistem operasi nembrak, gedé pisan harepanana sangkan bisa dilarapan ku basa Sunda. Malah mah aksara Sunda ogé kiwari geus bisa dipaké ngetik dina Ubuntu saprak asup kana [Standar Unicode](https://www.unicode.org/charts/PDF/U1B80.pdf). Kuring umajak ka dulur-dulur, hususna pamaké Ubuntu (jeung distro séjén turunanana) sangkan bisa ilubiung, réréongan, ngamumulé basa Sunda ku jalan narjamahkeun ieu sistem operasi.  
 
 ### Saha nu Narjamahkeun?
-Anjeun. Enya, anjeun bisa milu réréongan narjamahkeun Ubuntu. Sanajan Anjeun teu boga kasang tukang pangatikan linguistik basa Sunda, sahenteuna anUUjeun ngarti basa Sunda jeung sacara intuitif (rarasaan) tangtu bisa narjamahkeun rupa-rupa istilah dina sistem operasi. Ulah salempang, teu kudu hariwang. Cobaan heula narjamahkeun. Upama manggihan kabingung, ulah asa-asa pikeun nanyakeun dina milis. 
+Anjeun. Enya, anjeun bisa milu réréongan narjamahkeun Ubuntu. Sanajan Anjeun teu boga kasang tukang pangatikan linguistik basa Sunda, sahenteuna anjeun ngarti basa Sunda jeung sacara intuitif (rarasaan) tangtu bisa narjamahkeun rupa-rupa istilah dina sistem operasi. Ulah salempang, teu kudu hariwang. Cobaan heula narjamahkeun. Upama manggihan kabingung, ulah asa-asa pikeun nanyakeun dina milis. 
 
 Upama anjeun boga pangalaman narjamahkeun atawa boga kasang tukang atikan jurusan basa atawa sastra Sunda, hadé pisan! Ieu minangka salah sahiji loka pikeun ngalarapkeun basa Sunda dina widang téhnologi. Anjeun bisa nulungan dulur-dulur séjén pikeun narjamahkeun, atawa mariksa tarjamahan séjén sangkan cop atawa merenah, luyu jeung kontéksna. Urang silih simbeuh pangarti, jeung silih asah pangabisa. Sangkan manfaatna kaala ku balaréa. 
 
@@ -26,16 +26,17 @@ Upama anjeun boga pangalaman narjamahkeun atawa boga kasang tukang atikan jurusa
 ### Palanggeran Tata Basa
 
 #### Aksara 
-Aksara anu dipake pikeun nuliskeun basa Sunda dina Ubuntu nyaeta Laten, luyu jeung palanggeran umum pikeun basa Sunda. Kudu diperhatikeun bedana aksara _e_ (entog), _e_ (embung), jeung _eu_ (eunteung). Anjeun bisa ngaktifkeun keyboard kustom anu biasa dipake ku anjeun, atawa bisa make [keyboard Sunda Laten ti Keyman](https://keyman.com/keyboards/sundanese_latin). 
+Aksara anu dipaké pikeun nuliskeun basa Sunda dina Ubuntu nyaéta Latén, luyu jeung palanggeran umum pikeun basa Sunda. Kudu diperhatikeun bédana aksara _é_ (éntog), _e_ (embung), jeung _eu_ (eunteung). Anjeun bisa ngaktifkeun keyboard kustom anu biasa dipaké ku anjeun, atawa bisa maké [keyboard Sunda Latén ti Keyman](https://keyman.com/keyboards/sundanese_latin). 
 
-Aksara Sunda (ᮃᮊ᮪ᮞᮛ ᮞᮥᮔ᮪ᮓ) bisa dipake dina sawatara istilah pondok, bari dibarengan ku aksara Laten. Pikeun ngetikna bisa make [Keyboard Aksara Sunda Baku ti Keyman](https://keyman.com/keyboards/sundanese). Sangkan bener ngetikna, mangga baca heula [pituduh ngetik aksara Sunda anu bener](https://www.kairaga.com/2015/03/13/cara-menulis-mengetik-aksara-sunda-yang-benar/).
+Aksara Sunda (ᮃᮊ᮪ᮞᮛ ᮞᮥᮔ᮪ᮓ) ogé bisa dipaké dina sawatara istilah pondok, bari dibarengan ku aksara Latén. Pikeun ngetikna bisa maké [Keyboard Aksara Sunda Baku ti Keyman](https://keyman.com/keyboards/sundanese). Sangkan bener ngetikna, mangga baca heula [pituduh ngetik aksara Sunda anu bener](https://www.kairaga.com/2015/03/13/cara-menulis-mengetik-aksara-sunda-yang-benar/).
 
 #### Éjahaan
-Ejahan anu dipake nyaeta pikeun basa Sunda kiwari (modern). Sawatara contona bisa ditingali dina [Palanggeran Ejahan Wikipedia Basa Sunda](https://su.wikipedia.org/wiki/Wikipedia:Palanggeran_%C3%A9jahan_basa_Sunda).
+Éjahan anu dipaké nyaéta pikeun basa Sunda kiwari (modérn). Sawatara contona bisa ditingali dina [Palanggeran Éjahan Wikipédia Basa Sunda](https://su.wikipedia.org/wiki/Wikipedia:Palanggeran_%C3%A9jahan_basa_Sunda).
 
-#### Gaya Basa
+#### Ragam Basa
+Ragam basa Sunda pikeun tarjamahan Ubuntu dipiharep **maké basa loma, lain basa hormat (lemes)**. Ragam basa loma téh ilahar (umum) dipaké dina téks-téks tinulis formal, upamana dina buku-buku wedalan penerbit (Kiblat Buku Utama, Pustaka Jaya, Geger Sunten jrrd.), dina majalah basa Sunda (_Manglé, Cupumanik, Pasundan,_ jrrd.), dina karya tulis ilmiah skripsi & tésis di jurusan/prodi basa Sunda di UPI Bandung, sarta skripsi di jurusan Sastra Sunda UNPAD, dina media citak/koran (Galura, Sunda Midang, jrrd.), ogé dina Wikipédia Basa Sunda. Upama anjeung mangmang kekecapan pikeun tarjamah basa Sundana, ulah asa-asa pikeun nanyakeun dina milis.
 
-#### Istilah Tehnologi
+#### Istilah Téhnologi
 Pikeun istilah-istilah husus dina widang tehnologi, nepi ka kiwari tacan aya standar pikeun basa Sunda. Saheulaanan mah bisa ngacu kana [Panduan Pembakuan Istilah komputer dumasar Inpres No. 2 Tahun 2001](https://id.wikisource.org/wiki/Panduan_Pembakuan_Istilah,_Pelaksanaan_Instruksi_Presiden_Nomor_2_Tahun_2001_Tentang_Penggunaan_Komputer_Dengan_Aplikasi_Komputer_Berbahasa_Indonesia). Tangtu bae kudu diluyukeun deui kana ejahan pikeun basa Sunda. Minangka babandingan, bisa oge ningali daptar istilah nu dipake dina [Wikipedia Basa Sunda](https://su.wikipedia.org/wiki/Wikipedia:Daptar_Istilah). 
 
 ### Pakakas Tarjamah
