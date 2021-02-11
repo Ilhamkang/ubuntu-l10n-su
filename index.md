@@ -38,11 +38,11 @@ Aksara Sunda (ᮃᮊ᮪ᮞᮛ ᮞᮥᮔ᮪ᮓ) ogé bisa dipaké dina sawatara i
 Ragam basa Sunda pikeun tarjamahan Ubuntu dipiharep **maké basa loma, lain basa hormat (lemes)**. Ragam basa loma téh ilahar (umum) dipaké dina téks-téks tinulis formal, upamana dina buku-buku wedalan penerbit (Kiblat Buku Utama, Pustaka Jaya, Geger Sunten jrrd.), dina majalah basa Sunda (_Manglé, Cupumanik, Pasundan,_ jrrd.), dina karya tulis ilmiah skripsi & tésis di jurusan/prodi basa Sunda di UPI Bandung, sarta skripsi di jurusan Sastra Sunda UNPAD, dina media citak/koran (Galura, Sunda Midang, jrrd.), ogé dina Wikipédia Basa Sunda. 
 
 Conto: 
-Basa Inggris: `Not available because there is no Internet connection.`
+⋅⋅Basa Inggris: `Not available because there is no Internet connection.`
 
-Tarjamah
-Ragam hormat (lemes): `Teu sayogi ku margi teu aya sambungan internet.` ❌ teu dipiharep
-Ragam loma: `Teu sayaga sabab euweuh sambungan internet` ✅  dipiharep
+Tarjamah:
+⋅⋅Ragam hormat (lemes): `Teu sayogi ku margi teu aya sambungan internet.` ❌ teu dipiharep
+⋅⋅Ragam loma: `Teu sayaga sabab euweuh sambungan internet` ✅  dipiharep
 
 Upama anjeun mangmang kekecapan pikeun tarjamah basa Sundana, ulah asa-asa pikeun nanyakeun dina milis.
 
