@@ -19,7 +19,7 @@ Upama anjeun boga pangalaman narjamahkeun atawa boga kasang tukang atikan jurusa
 
 ### Naon nu Perlu Ditarjamahkeun?
 #### Paket Inti (_Core Packages_)
-Paket inti teh dasar anu bakal dipake dina sakumna sistem operasi Ubuntu. Aplikasi sejen anu teu kaasup di jero sistem operasi Ubuntu perlu ditarjamahkeun sewang-sewangan. Unggal vérsi Ubuntu miboga jumlah string anu teu sarua anu perlu ditarjamahkeun téh, tapi umumna mah kiwari aya leuwih ti 320.000 string jeung tuluy baé nambahan. Tingali salengkepna di dieu: 
+Pakét inti teh dasar anu bakal dipaké dina sakumna sistem operasi Ubuntu. Aplikasi séjén anu teu kaasup di jero sistem operasi Ubuntu perlu ditarjamahkeun séwang-séwangan. Unggal vérsi Ubuntu miboga jumlah string anu teu sarua anu perlu ditarjamahkeun téh, tapi umumna mah kiwari aya leuwih ti 320.000 string jeung tuluy baé nambahan. Tingali salengkepna di dieu: 
 * [https://translations.launchpad.net/ubuntu/hirsute/+lang/su](https://translations.launchpad.net/ubuntu/hirsute/+lang/su) 21.04
 * [https://translations.launchpad.net/ubuntu/jammy/+lang/su](https://translations.launchpad.net/ubuntu/jammy/+lang/su) 22.04
 * [https://translations.launchpad.net/ubuntu/kinetic/+lang/su](https://translations.launchpad.net/ubuntu/kinetic/+lang/su) 22.10
@@ -27,19 +27,19 @@ Paket inti teh dasar anu bakal dipake dina sakumna sistem operasi Ubuntu. Aplika
 * [https://translations.launchpad.net/ubuntu/mantic/+lang/su](https://translations.launchpad.net/ubuntu/mantic/+lang/su) 23.10
 
 #### Aplikasi Saluareun Ubuntu
-Narjamahkeun sistem operasi kana basa Sunda teh tangtu kudu dibarengan ku narjamahekun rupa-rupa aplikasi sejenna. Aplikasi-aplikasi anu dimekarkeunsaluareun proyek Ubuntu perlu ditarjamahkeun dina loka sewang-sewangan. Upamana anjeun minat narjamahkeun Libre Office kana basa Sunda, anjeun bisa nuturkeun [Pituduh Lokalisasi Libre Office.](https://wiki.documentfoundation.org/LibreOffice_Localization_Guide/Adding_a_New_Language_or_Locale). [Firefox Rocket](https://www.mozilla.org/en-US/firefox/new/) malah mah [geus ditarjamahkeun kana basa Sunda](https://mozilla.or.id/2018/08/13/firefox-rocket-to-be-soon-available-in-javanese-and-sundanese/). 
+Narjamahkeun sistem operasi kana basa Sunda téh tangtu kudu dibarengan ku narjamahekun rupa-rupa aplikasi séjénna. Aplikasi-aplikasi anu dimekarkeun ti saluareun proyék Ubuntu perlu ditarjamahkeun dina loka séwang-séwangan. Upamana anjeun minat narjamahkeun Libre Office kana basa Sunda, anjeun bisa nuturkeun [Pituduh Lokalisasi Libre Office.](https://wiki.documentfoundation.org/LibreOffice_Localization_Guide/Adding_a_New_Language_or_Locale). [Firefox Rocket](https://www.mozilla.org/en-US/firefox/new/) malah mah [geus ditarjamahkeun kana basa Sunda](https://mozilla.or.id/2018/08/13/firefox-rocket-to-be-soon-available-in-javanese-and-sundanese/). 
 
-Upama anjeun aya minat narjamahkeun aplikasi sejen, hade pisan. Eta oge bakal ngarojong dipakena basa Sunda dina aplikasi-aplikasi nembrak sangkan bisa dipake dina Ubuntu atawa distro Linux sejenna. 
+Upama anjeun aya minat narjamahkeun aplikasi séjén, hadé pisan. Éta ogé bakal ngarojong dipakéna basa Sunda dina aplikasi-aplikasi nembrak sangkan bisa dipaké dina Ubuntu atawa distro Linux séjénna. 
 
 ### Palanggeran Tata Basa
 
 #### Aksara 
-Aksara anu dipaké pikeun nuliskeun basa Sunda dina Ubuntu nyaéta Latén, luyu jeung palanggeran umum pikeun basa Sunda. Kudu diperhatikeun bédana aksara _é_ (éntog), _e_ (embung), jeung _eu_ (eunteung). Anjeun bisa ngaktifkeun keyboard kustom anu biasa dipaké ku anjeun, atawa bisa maké [keyboard Sunda Latén ti Keyman](https://keyman.com/keyboards/sundanese_latin). 
+Aksara anu dipaké pikeun nuliskeun basa Sunda dina Ubuntu nyaéta aksara Latén, luyu jeung palanggeran umum pikeun basa Sunda kiwari. Kudu diperhatikeun bédana aksara _é_ (éntog), _e_ (embung), jeung _eu_ (eunteung). Anjeun bisa ngaktifkeun keyboard kustom anu biasa dipaké ku anjeun, atawa bisa maké [keyboard Sunda Latén ti Keyman](https://keyman.com/keyboards/sundanese_latin). 
 
 Aksara Sunda (ᮃᮊ᮪ᮞᮛ ᮞᮥᮔ᮪ᮓ) ogé bisa dipaké dina sawatara istilah pondok, bari dibarengan ku aksara Latén. Pikeun ngetikna bisa maké [Keyboard Aksara Sunda Baku ti Keyman](https://keyman.com/keyboards/sundanese). Sangkan bener ngetikna, mangga baca heula [pituduh ngetik aksara Sunda anu bener](https://www.kairaga.com/2015/03/13/cara-menulis-mengetik-aksara-sunda-yang-benar/).
 
 #### Éjahaan
-Éjahan anu dipaké nyaéta pikeun basa Sunda kiwari (modérn). Sawatara contona bisa ditingali dina [Palanggeran Éjahan Wikipédia Basa Sunda](https://su.wikipedia.org/wiki/Wikipedia:Palanggeran_%C3%A9jahan_basa_Sunda).
+Éjahan anu dipaké nyaéta pikeun basa Sunda kiwari (modéren). Sawatara contona bisa ditingali dina [Palanggeran Éjahan Wikipédia Basa Sunda](https://su.wikipedia.org/wiki/Wikipedia:Palanggeran_%C3%A9jahan_basa_Sunda).
 
 #### Ragam Basa
 Ragam basa Sunda pikeun tarjamahan Ubuntu dipiharep **maké basa loma, lain basa hormat (lemes)**. Ragam basa loma téh ilahar (umum) dipaké dina téks-téks tinulis formal, upamana dina buku-buku wedalan penerbit (Kiblat Buku Utama, Pustaka Jaya, Geger Sunten jrrd.), dina majalah basa Sunda (_Manglé, Cupumanik, Pasundan,_ jrrd.), dina karya tulis ilmiah skripsi & tésis di jurusan/prodi basa Sunda di UPI Bandung, sarta skripsi di jurusan Sastra Sunda UNPAD, dina media citak/koran (Galura, Sunda Midang, jrrd.), ogé dina Wikipédia Basa Sunda. 
@@ -54,15 +54,15 @@ Tarjamah:
 Upama anjeun mangmang kekecapan pikeun tarjamah basa Sundana, ulah asa-asa pikeun nanyakeun dina milis.
 
 #### Istilah Téhnologi
-Pikeun istilah-istilah husus dina widang tehnologi, nepi ka kiwari tacan aya standar pikeun basa Sunda. Saheulaanan mah bisa ngacu kana [Panduan Pembakuan Istilah komputer dumasar Inpres No. 2 Tahun 2001](https://id.wikisource.org/wiki/Panduan_Pembakuan_Istilah,_Pelaksanaan_Instruksi_Presiden_Nomor_2_Tahun_2001_Tentang_Penggunaan_Komputer_Dengan_Aplikasi_Komputer_Berbahasa_Indonesia). Tangtu bae kudu diluyukeun deui kana ejahan pikeun basa Sunda. Minangka babandingan, bisa oge ningali daptar istilah nu dipake dina [Wikipedia Basa Sunda](https://su.wikipedia.org/wiki/Wikipedia:Daptar_Istilah). 
+Pikeun istilah-istilah husus dina widang téhnologi, nepi ka kiwari tacan aya standar pikeun basa Sunda. Saheulaanan mah bisa ngacu kana [Panduan Pembakuan Istilah komputer dumasar Inpres No. 2 Tahun 2001](https://id.wikisource.org/wiki/Panduan_Pembakuan_Istilah,_Pelaksanaan_Instruksi_Presiden_Nomor_2_Tahun_2001_Tentang_Penggunaan_Komputer_Dengan_Aplikasi_Komputer_Berbahasa_Indonesia). Tangtu baé kudu diluyukeun deui kana éjahan pikeun basa Sunda. Minangka babandingan, bisa ogé ningali daptar istilah nu dipaké dina [Wikipedia Basa Sunda](https://su.wikipedia.org/wiki/Wikipedia:Daptar_Istilah). 
 
 ### Pakakas Tarjamah
 #### Kamus
-Narjamahkeun kana basa Sunda hadena luyu kana kamus basa Sunda. Sangkan ejahanana bener jeung hartina merenah. Aya sawatara kamus anu bisa dipake ku urang, boh nu online boh nu offline (citak). Ieu di handap daftarna:
+Narjamahkeun kana basa Sunda hadéna mah luyu kana kamus basa Sunda. Ulah kumaha karep baé. Sangkan éjahanana bener jeung hartina merenah. Aya sawatara kamus anu bisa dipake ku urang, boh nu online boh nu offline (citak). Ieu di handap daftarna:
 * A dictionary of the Sunda language of Java ([Wiki Source](https://en.wikisource.org/wiki/A_Dictionary_of_the_Sunda_language)) ([Archive.org](https://archive.org/details/sundanesedictgoog2))
-* Kamus Basa Sunda Danadibrata 
-* Kamus Basa Sunda Satjadibrata 
-* Sundanese English Dictionary Hardjadibrata
+* Kamus Basa Sunda - Danadibrata 
+* Kamus Basa Sunda - Satjadibrata 
+* Sundanese English Dictionary - Hardjadibrata
 
 Tingali ogé sawatara kumpulan kamus basa Sunda anu bisa diakses online ([di dieu](https://inurwansah.my.id/kamus-sunda/)).
 
