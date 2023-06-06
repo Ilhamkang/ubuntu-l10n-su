@@ -26,7 +26,7 @@ Paket inti teh dasar anu bakal dipake dina sakumna sistem operasi Ubuntu. Aplika
 * [https://translations.launchpad.net/ubuntu/kinetic/+lang/su](https://translations.launchpad.net/ubuntu/kinetic/+lang/su) 22.10
 * [https://translations.launchpad.net/ubuntu/lunar/+lang/su](https://translations.launchpad.net/ubuntu/lunar/+lang/su) 23.04
 * [https://translations.launchpad.net/ubuntu/mantic/+lang/su](https://translations.launchpad.net/ubuntu/mantic/+lang/su) 23.10
-* 
+
 #### Aplikasi Saluareun Ubuntu
 Narjamahkeun sistem operasi kana basa Sunda teh tangtu kudu dibarengan ku narjamahekun rupa-rupa aplikasi sejenna. Aplikasi-aplikasi anu dimekarkeunsaluareun proyek Ubuntu perlu ditarjamahkeun dina loka sewang-sewangan. Upamana anjeun minat narjamahkeun Libre Office kana basa Sunda, anjeun bisa nuturkeun [Pituduh Lokalisasi Libre Office.](https://wiki.documentfoundation.org/LibreOffice_Localization_Guide/Adding_a_New_Language_or_Locale). [Firefox Rocket](https://www.mozilla.org/en-US/firefox/new/) malah mah [geus ditarjamahkeun kana basa Sunda](https://mozilla.or.id/2018/08/13/firefox-rocket-to-be-soon-available-in-javanese-and-sundanese/). 
 
