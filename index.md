@@ -20,8 +20,13 @@ Upama anjeun boga pangalaman narjamahkeun atawa boga kasang tukang atikan jurusa
 
 ### Naon nu Perlu Ditarjamahkeun?
 #### Paket Inti (_Core Packages_)
-Paket inti teh dasar anu bakal dipake dina sakumna sistem operasi Ubuntu. Aplikasi sejen anu teu kaasup di jero sistem operasi Ubuntu perlu ditarjamahkeun sewang-sewangan. Pikeun Ubuntu versi kiwari (Hirsute 21.04) aya leuwih ti 320.000 string anu perlu ditarjamahkeun. Tingali salengkepna di dieu: [https://translations.launchpad.net/ubuntu/hirsute/+lang/su](https://translations.launchpad.net/ubuntu/hirsute/+lang/su).
-
+Paket inti teh dasar anu bakal dipake dina sakumna sistem operasi Ubuntu. Aplikasi sejen anu teu kaasup di jero sistem operasi Ubuntu perlu ditarjamahkeun sewang-sewangan. Pikeun Ubuntu versi kiwari (Hirsute 21.04) aya leuwih ti 320.000 string anu perlu ditarjamahkeun. Tingali salengkepna di dieu: 
+* [https://translations.launchpad.net/ubuntu/hirsute/+lang/su](https://translations.launchpad.net/ubuntu/hirsute/+lang/su) 21.04
+* [https://translations.launchpad.net/ubuntu/jammy/+lang/su](https://translations.launchpad.net/ubuntu/jammy/+lang/su) 22.04
+* [https://translations.launchpad.net/ubuntu/kinetic/+lang/su](https://translations.launchpad.net/ubuntu/kinetic/+lang/su) 22.10
+* [https://translations.launchpad.net/ubuntu/lunar/+lang/su](https://translations.launchpad.net/ubuntu/lunar/+lang/su) 23.04
+* [https://translations.launchpad.net/ubuntu/mantic/+lang/su](https://translations.launchpad.net/ubuntu/mantic/+lang/su) 23.10
+* 
 #### Aplikasi Saluareun Ubuntu
 Narjamahkeun sistem operasi kana basa Sunda teh tangtu kudu dibarengan ku narjamahekun rupa-rupa aplikasi sejenna. Aplikasi-aplikasi anu dimekarkeunsaluareun proyek Ubuntu perlu ditarjamahkeun dina loka sewang-sewangan. Upamana anjeun minat narjamahkeun Libre Office kana basa Sunda, anjeun bisa nuturkeun [Pituduh Lokalisasi Libre Office.](https://wiki.documentfoundation.org/LibreOffice_Localization_Guide/Adding_a_New_Language_or_Locale). [Firefox Rocket](https://www.mozilla.org/en-US/firefox/new/) malah mah [geus ditarjamahkeun kana basa Sunda](https://mozilla.or.id/2018/08/13/firefox-rocket-to-be-soon-available-in-javanese-and-sundanese/). 
 
@@ -59,6 +64,8 @@ Narjamahkeun kana basa Sunda hadena luyu kana kamus basa Sunda. Sangkan ejahanan
 * Kamus Basa Sunda Danadibrata 
 * Kamus Basa Sunda Satjadibrata 
 * Sundanese English Dictionary Hardjadibrata
+
+Tingali ogé sawatara kumpulan kamus basa Sunda anu bisa diakses online ([di dieu](https://inurwansah.my.id/kamus-sunda/)).
 
 #### Mesin Panarjamah
 Aya sawatara wesbite atawa aplikasi anu nyadiakeun kamus atawa pakakas tarjamah otomatis kana basa Sunda. Hanjakal, tara kapaluruh sumberna acuanana. Gampang bae maluruhna mah, rea kacukcruk ku Google oge. Eta website atawa aplikasi teh bisa dipake pikeun narjamahkeun istilah-istilah basajan sapopoe, tapi keur istilah tehnis mah perlu dibahas deui jeung anggota grup panarjamah sejenna, sangkan teu salah atawa ambigu. 
