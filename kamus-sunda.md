@@ -1,1 +1,0 @@
-Daptar kamus Basa Sunda.
