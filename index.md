@@ -19,7 +19,7 @@ Upama anjeun boga pangalaman narjamahkeun atawa boga kasang tukang atikan jurusa
 
 ### Naon nu Perlu Ditarjamahkeun?
 #### Paket Inti (_Core Packages_)
-Paket inti teh dasar anu bakal dipake dina sakumna sistem operasi Ubuntu. Aplikasi sejen anu teu kaasup di jero sistem operasi Ubuntu perlu ditarjamahkeun sewang-sewangan. Pikeun Ubuntu versi kiwari (Hirsute 21.04) aya leuwih ti 320.000 string anu perlu ditarjamahkeun. Tingali salengkepna di dieu: 
+Paket inti teh dasar anu bakal dipake dina sakumna sistem operasi Ubuntu. Aplikasi sejen anu teu kaasup di jero sistem operasi Ubuntu perlu ditarjamahkeun sewang-sewangan. Unggal vérsi Ubuntu miboga jumlah string anu teu sarua anu perlu ditarjamahkeun téh, tapi umumna mah kiwari aya leuwih ti 320.000 string jeung tuluy baé nambahan. Tingali salengkepna di dieu: 
 * [https://translations.launchpad.net/ubuntu/hirsute/+lang/su](https://translations.launchpad.net/ubuntu/hirsute/+lang/su) 21.04
 * [https://translations.launchpad.net/ubuntu/jammy/+lang/su](https://translations.launchpad.net/ubuntu/jammy/+lang/su) 22.04
 * [https://translations.launchpad.net/ubuntu/kinetic/+lang/su](https://translations.launchpad.net/ubuntu/kinetic/+lang/su) 22.10
